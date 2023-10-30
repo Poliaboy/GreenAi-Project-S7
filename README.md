@@ -3,8 +3,8 @@
 ## Form groups
 
 - For this group project, constitute groups of 3 to 5, max 6 people.
-    - If youprefer to bealone wecan makeexceptions but not everyone willbe
-       able to do so, keepin mindthat beingalone makesmore work too.
+    - If you prefer to be alone we can make exceptions but not everyone will be
+       able to do so, keep in mind that being alone makes more work too.
 - During the 3 first TD you will work on finding and realizing your
     subject + your presentation
        - You’re expected to take time to work on the subject outside of TD’s too.
