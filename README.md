@@ -1,5 +1,14 @@
 # GreenAi-Project-S7
 
+## Main idea
+impact of the development of computer hardware on the mining idustry of countries and the ecological impact of this evolution
+    maybe focus on a particular metal or country
+
+
+
+
+
+
 ## Form groups
 
 - For this group project, constitute groups of 3 to 5, max 6 people.
