@@ -5,10 +5,7 @@
     - maybe focus on a particular metal or country
     - not a popular or evident metal or ressource
 
-
-
-
-
+    
 
 ## Form groups
 
